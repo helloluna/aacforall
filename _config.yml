@@ -3,13 +3,13 @@ description: "Free, open-source AAC tools and pre-configured tablets for familie
 url: "https://helloluna.github.io"
 baseurl: "/aacforall"
 
-# Replace `theme:` with a remote_theme declaration:
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 plugins:
-  - jekyll-remote-theme   # ← pulls in the MM theme
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 defaults:
   - scope:
