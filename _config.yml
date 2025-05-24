@@ -1,7 +1,8 @@
 title: AAC for All
-description: Accessible AAC solutions for every family.
-baseurl: ""  
-url: "https://你的用户名.github.io/aacforall"
+email: helloluna520@gmail.com
+description: "Free AAC apps & pre-configured tablets for non-speaking children"
+baseurl: "/aacforall"        # 若用 USERNAME.github.io/aacforall，则填 "/aacforall"
+url: "https://aacforall.org"
 theme: minimal-mistakes-jekyll
 sass:
   sass_dir: _sass
