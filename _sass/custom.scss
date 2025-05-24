@@ -1,0 +1,30 @@
+/* base background and font */
+body {
+  background-color: #fcf9f2;
+  font-family: "Palatino Linotype", Georgia, serif;
+  color: #333;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* links */
+a {
+  color: #4183c4;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* titles */
+h1, h2, h3 {
+  font-family: "Helvetica Neue", sans-serif;
+  color: #333;
+}
+
+/* page width */
+.page {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
