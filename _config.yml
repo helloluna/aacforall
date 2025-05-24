@@ -1,0 +1,14 @@
+title: AAC for All
+description: Accessible AAC solutions for every family.
+baseurl: ""  
+url: "https://你的用户名.github.io/aacforall"
+theme: minimal-mistakes-jekyll
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
