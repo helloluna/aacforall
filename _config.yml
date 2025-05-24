@@ -1,15 +1,28 @@
-title: AAC for All
-email: helloluna520@gmail.com
-description: "Free AAC apps & pre-configured tablets for non-speaking children"
-baseurl: "/aacforall"        # 若用 USERNAME.github.io/aacforall，则填 "/aacforall"
-url: "https://aacforall.org"
-theme: minimal-mistakes-jekyll
+title: "AAC for All"
+description: "Free, open-source AAC tools and pre-configured tablets for families"
+url: "https://helloluna.github.io"
+baseurl: "/aacforall"
+
+# Replace `theme:` with a remote_theme declaration:
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-remote-theme   # ← pulls in the MM theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author: Hanyu
+      comments: false
 sass:
   sass_dir: _sass
   style: compressed
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
 markdown: kramdown
 kramdown:
   input: GFM
