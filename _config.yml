@@ -5,7 +5,8 @@ baseurl: "/aacforall"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
-minimal_mistakes_skin: "default"   # 保持默认皮肤
+minimal_mistakes_skin: "default"
+custom_css: /assets/css/main.css    # <-- 关键！
 
 plugins:
   - jekyll-feed
@@ -21,7 +22,6 @@ defaults:
       layout: single
       author: Hanyu
       comments: false
-
 
 markdown: kramdown
 kramdown:
