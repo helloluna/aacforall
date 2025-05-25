@@ -1,19 +1,38 @@
 ---
-layout: single
-title: "Free AAC Apps for Android"
+layout: splash
+title: "AAC for All"
 permalink: /
+hero:
+  title: "Affordable Communication for Every Child"
+  tagline: "Pre-configured tablets and free AAC apps — no funding required"
+  actions:
+    - text: "Get a Tablet"
+      url: /get-a-tablet/
+    - text: "Explore Free Apps"
+      url: /install-guides/
+  background_image: /assets/img/hero-bg.jpg
 ---
 
-To support families new to AAC, here are fully free Android-based AAC apps you can install without a Play Store account:
+<div class="container">
 
-- **Cboard** (open-source)  
-- **JABtalk** (open-source)  
-- **Jellow** (open-source)  
-- **LetMeTalk** (open-source)  
-- …and more!
+  <!-- 三栏特色 -->
+  <section class="features">
+    <div class="feature">
+      <img src="/assets/img/aac-1.jpeg" alt="Open-source apps">
+      <h2>Open-Source AAC Apps</h2>
+      <p>Free, offline apps like Cboard, Jabtalk, Jellow & more.</p>
+    </div>
+    <div class="feature">
+      <img src="/assets/img/aac-2.jpeg" alt="Setup guides">
+      <h2>Simple Setup Guides</h2>
+      <p>Step-by-step PDFs for installing & pinning your AAC app.</p>
+    </div>
+    <div class="feature">
+      <img src="/assets/img/aac-3.jpeg" alt="Rugged tablets">
+      <h2>Rugged Tablets</h2>
+      <p>Samsung Tab Active3 + heavy-duty case, screen protector & strap.</p>
+    </div>
+  </section>
 
-Download APKs directly from our GitHub repo:  
-[github.com/your-username/aacforall/tree/main/apks](https://github.com/your-username/aacforall/tree/main/apks)
+</div>
 
-📄 [Installation Guide →]({{ site.baseurl }}/install-guides/)
-📄 [App Locking Guide →]({{ site.baseurl }}/app-locking-guide/)
