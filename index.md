@@ -1,5 +1,11 @@
 ---
-layout: splash
+<div class="hero">
+  <h1>AAC FOR ALL</h1>
+  <p>Pre-configured tablets & free AAC apps — no funding required</p>
+  <a class="btn" href="/get-a-tablet/">Get a Tablet</a>
+  <a class="btn" href="/install-guides/">Explore Apps</a>
+</div>
+
 title: "AAC for All"
 permalink: /
 hero:
