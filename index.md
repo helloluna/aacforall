@@ -5,7 +5,6 @@
   <a class="btn" href="/get-a-tablet/">Get a Tablet</a>
   <a class="btn" href="/install-guides/">Explore Apps</a>
 </div>
-
   background_image: "{{ '/assets/img/hero-bg.png' | prepend: site.baseurl }}"
 ---
 
