@@ -5,12 +5,12 @@ permalink: /
 hero:
   title: "Affordable Communication for Every Child"
   tagline: "Pre-configured tablets and free AAC apps — no funding required"
+   background_image: /assets/img/hero-bg.png
   actions:
     - text: "Get a Tablet"
       url: /get-a-tablet/
     - text: "Explore Free Apps"
       url: /install-guides/
-background_image: /assets/img/hero-bg.png
 ---
 
 <div class="container">
