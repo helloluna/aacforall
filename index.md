@@ -6,16 +6,6 @@
   <a class="btn" href="/install-guides/">Explore Apps</a>
 </div>
 
-title: "AAC for All"
-permalink: /
-hero:
-  title: "Affordable Communication for Every Child"
-  tagline: "Pre-configured tablets and free AAC apps — no funding required"
-  actions:
-    - text: "Get a Tablet"
-      url: /get-a-tablet/
-    - text: "Explore Free Apps"
-      url: /install-guides/
   # 选一种写法即可：
   background_image: "{{ '/assets/img/hero-bg.png' | prepend: site.baseurl }}"
 ---
