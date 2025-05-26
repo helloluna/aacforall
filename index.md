@@ -6,7 +6,6 @@
   <a class="btn" href="/install-guides/">Explore Apps</a>
 </div>
 
-  background_image: "{{ '/assets/img/hero-bg.png' | prepend: site.baseurl }}"
 ---
 
 <div class="container">
