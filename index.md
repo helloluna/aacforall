@@ -8,6 +8,16 @@
 
 ---
 
+<section id="features" class="features-grid container">
+  <div class="card">
+    <img src="{{ '/assets/img/aac-1.jpg' | prepend: site.baseurl }}" alt="">
+    <h3>Open-Source Apps</h3>
+    <p>Free, offline AAC apps like Cboard, Jabtalk, …</p>
+  </div>
+  <!-- … 一共三张卡片 … -->
+</section>
+
+
 <div class="container">
 
   <section class="features">
