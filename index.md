@@ -6,7 +6,6 @@
   <a class="btn" href="/install-guides/">Explore Apps</a>
 </div>
 
-  # 选一种写法即可：
   background_image: "{{ '/assets/img/hero-bg.png' | prepend: site.baseurl }}"
 ---
 
