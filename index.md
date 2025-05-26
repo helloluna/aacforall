@@ -9,7 +9,7 @@ hero:
   actions:
     - text: "Get a Tablet"
       url: /get-a-tablet/
-    - text: "Explore Free Apps"
+    - text: "Explore Apps"
       url: /install-guides/
 ---
 
@@ -21,12 +21,12 @@ hero:
       <p>Free, offline apps like Cboard, Jabtalk, Jellow &amp; more.</p>
     </div>
     <div class="card">
-      <img src="{{ '/assets/img/aac-3.png' | prepend: site.baseurl }}" alt="Setup guides">
+      <img src="{{ '/assets/img/aac-2.jpg' | prepend: site.baseurl }}" alt="Simple Setup Guides">
       <h3>Simple Setup Guides</h3>
       <p>Step-by-step PDFs for installing &amp; pinning your AAC app.</p>
     </div>
     <div class="card">
-      <img src="{{ '/assets/img/aac-2.jpg' | prepend: site.baseurl }}" alt="Rugged tablets">
+      <img src="{{ '/assets/img/aac-3.png' | prepend: site.baseurl }}" alt="Rugged tablets">
       <h3>Rugged Tablets</h3>
       <p>Samsung Tab Active3 + heavy-duty case, screen protector &amp; strap.</p>
     </div>
