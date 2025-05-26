@@ -10,7 +10,7 @@ hero:
       url: /get-a-tablet/
     - text: "Explore Free Apps"
       url: /install-guides/
- background_image: /assets/img/hero-bg.png
+background_image: /assets/img/hero-bg.png
 ---
 
 <div class="container">
